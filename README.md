@@ -1,2 +1,3 @@
 # Western-Skins-E-Commerce-Website-
-s. This Website is designed to study the main methodology of E-Commerce website  via creating our own E-commerce platform (WESTERN SKINS...). The main technologies which  are being used in this project are HTML5 programming Language and CSS.
+s. This Website is designed to study the main methodology of E-Commerce website via creating our own E-commerce platform (WESTERN SKINS...). The main technologies which  are being used in this project are HTML5 programming Language and CSS.
+You need to have these images in your folder to get the responsive website
